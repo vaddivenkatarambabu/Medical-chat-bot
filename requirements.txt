@@ -1,0 +1,13 @@
+#src
+openai
+groq
+sentence-transformers==5.0.0
+langchain
+flask
+pypdf
+python-dotenv
+langchain_community
+langchain_openai
+langchain_experimental
+tensorflow
+-e .
